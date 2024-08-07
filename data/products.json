@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Guitarra Eléctrica Actualizada",
+    "description": "Descripción actualizada",
+    "code": "GUITAR001",
+    "price": 1200,
+    "status": true,
+    "stock": 12,
+    "category": "Instrumentos actualizados",
+    "thumbnails": [
+      "http://example.com/guitarra1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Batería Acústica",
+    "description": "Batería acústica completa",
+    "code": "DRUMS001",
+    "price": 1500,
+    "status": true,
+    "stock": 5,
+    "category": "Instrumentos",
+    "thumbnails": [
+      "http://example.com/bateria1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Micrófono",
+    "description": "Micrófono profesional para grabación",
+    "code": "MIC001",
+    "price": 200,
+    "status": true,
+    "stock": 30,
+    "category": "Accesorios",
+    "thumbnails": [
+      "http://example.com/microfono1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bajo Eléctrico",
+    "description": "Bajo eléctrico de 4 cuerdas",
+    "code": "BASS001",
+    "price": 800,
+    "status": true,
+    "stock": 15,
+    "category": "Instrumentos",
+    "thumbnails": [
+      "http://example.com/bajo1.jpg"
+    ]
+  }
+]
